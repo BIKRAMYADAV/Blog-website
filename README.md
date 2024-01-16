@@ -3,3 +3,4 @@
 3. Currently, the UI needs to be worked upon and some bugs needs to be fixed.
 4. Features : Currently, it just stores and reads blogs.
    
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,git,github,mongodb,nodejs,postman,react)](https://skillicons.dev)
