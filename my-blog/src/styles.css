@@ -1,0 +1,85 @@
+@import 'https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500&family=Montserrat:wght@300&family=Poppins:wght@300&display=swap';
+
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Baloo 2', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
+.Navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    font-size: large;
+}
+
+
+.logo{
+    width: 20%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.links {
+    display: flex;
+    align-items: space-around;
+    justify-content: space-evenly;
+    list-style: none;
+    width: 50%;
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+}
+
+a:hover{
+    color: red;
+}
+.search-btn{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    height: 40px; 
+}
+
+.container{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 200px;
+width: 200px;
+border: 2px solid black;
+color: black;
+}
+
+.blog-content{
+    
+    border-bottom: 2px solid black;
+    height: 100px;
+    padding: 10px;
+
+}
+
+.add-container{
+    height: 400px;
+    width: 500px;
+}

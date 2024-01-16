@@ -1,0 +1,13 @@
+.blog-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: space-around;
+    flex-direction: column;
+    height: 645px;
+}
+
+.blogs{
+    display: flex;
+    justify-content: space-around;
+    align-items: space-around;
+}
